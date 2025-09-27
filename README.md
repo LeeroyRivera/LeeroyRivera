@@ -40,8 +40,8 @@
 
 ### 📌 Featured Projects
 
-* [📡 Arduino Dashboard App in C#](#https://github.com/LeeroyRivera/dashboardArduinoApp)
-* [🌐 Express.js API with Validation](#https://github.com/LeeroyRivera/bibliotecaBackend)
+* [📡 Arduino Dashboard App in C#](https://github.com/LeeroyRivera/dashboardArduinoApp)
+* [🌐 Express.js API with Validation](https://github.com/LeeroyRivera/bibliotecaBackend)
 * [🎮 Unity Mini Game](#)
 
 ---
