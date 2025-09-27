@@ -12,8 +12,8 @@
 
 * 🌱 Currently learning **Frontend design & React**
 * 🔭 Exploring projects that mix **hardware + software**
-* 🎯 Goal: keep growing as a **full-stack developer**
-* ⚡ Fun fact: I enjoy debugging almost as much as building
+* 🎯 Goal: keep growing as a **full-stack developer** and specializing in **system desing and auditing** on the longer run
+* ⚡ Fun fact: I enjoy reading documentation almost as much as building
 
 ---
 
@@ -40,7 +40,7 @@
 
 ### 📌 Featured Projects
 
-* [📡 Arduino Serial App in C#](#)
+* [📡 Arduino Dashboard App in C#](#)
 * [🌐 Express.js API with Validation](#)
 * [🎮 Unity Mini Game](#)
 
